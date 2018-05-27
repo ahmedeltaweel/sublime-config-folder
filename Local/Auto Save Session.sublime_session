@@ -1,0 +1,1097 @@
+{
+	"folder_history":
+	[
+		"/home/taweel/web-yaoota",
+		"/home/taweel/shahry",
+		"/home/taweel/mobihall/mobihall-mobile",
+		"/home/taweel/mobihall/mobihall",
+		"/"
+	],
+	"last_version": 3176,
+	"last_window_id": 39,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"cre",
+						"credentials"
+					],
+					[
+						"cr",
+						"create"
+					],
+					[
+						"test",
+						"tests"
+					],
+					[
+						"Op",
+						"OptionManager\tclass"
+					],
+					[
+						"TR",
+						"True\tinstance"
+					],
+					[
+						"V",
+						"ValidationError\tclass"
+					],
+					[
+						"ver",
+						"verifier_client\tstatement"
+					],
+					[
+						"LAN",
+						"LANGUAGE_CODE"
+					],
+					[
+						"s",
+						"status\tstatement"
+					],
+					[
+						"app",
+						"approve"
+					],
+					[
+						"st",
+						"string\tstatement"
+					],
+					[
+						"for",
+						"format\tfunction"
+					],
+					[
+						"p",
+						"prefix"
+					],
+					[
+						"op",
+						"OptionInline\tclass"
+					],
+					[
+						"su",
+						"suffix"
+					],
+					[
+						"max",
+						"max_length"
+					],
+					[
+						"model",
+						"models\tmodule"
+					],
+					[
+						"Bra",
+						"Branch\tclass"
+					],
+					[
+						"br",
+						"branch\tstatement"
+					],
+					[
+						"assertI",
+						"assertIsInstance\tfunction"
+					],
+					[
+						"Bran",
+						"BranchFactory\tclass"
+					],
+					[
+						"fac",
+						"factory"
+					],
+					[
+						"VAL",
+						"validators"
+					],
+					[
+						"emai",
+						"EmailValidator\tclass"
+					],
+					[
+						"SE",
+						"SET_NULL\tfunction"
+					],
+					[
+						"lo",
+						"locations\tmodule"
+					],
+					[
+						"Co",
+						"Country"
+					],
+					[
+						"ci",
+						"City\tmodule"
+					],
+					[
+						"For",
+						"ForeignKey\tclass"
+					],
+					[
+						"in",
+						"instance\tparam"
+					],
+					[
+						"fil",
+						"filename"
+					],
+					[
+						"FIle",
+						"FileField\tclass"
+					],
+					[
+						"co",
+						"core\tmodule"
+					],
+					[
+						"ma",
+						"max_length"
+					],
+					[
+						"ch",
+						"CharField"
+					],
+					[
+						"mode",
+						"models\tmodule"
+					],
+					[
+						"C",
+						"CharField"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"goto de",
+						"Anaconda: Goto object definition"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 181.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/taweel/shahry/shahry/merchants/tests/factories.py",
+				"/home/taweel/shahry/shahry/users/models.py",
+				"/home/taweel/web-yaoota/yaoota/specs/managers.py",
+				"/home/taweel/web-yaoota/yaoota/specs/models.py",
+				"/home/taweel/web-yaoota/yaoota/specs/admin.py",
+				"/home/taweel/web-yaoota/yaoota/.env",
+				"/home/taweel/web-yaoota/yaoota/config/settings/local.py",
+				"/home/taweel/web-yaoota/provisioning/roles/elasticsearch/templates/supervisor.conf.j2",
+				"/home/taweel/web-yaoota/provisioning/roles/elasticsearch/templates/elasticsearch.yml.j2",
+				"/home/taweel/web-yaoota/common/project_utils/admin.py",
+				"/home/taweel/shahry/shahry/loans/tests/factories.py",
+				"/home/taweel/shahry/shahry/loans/tests/test_api.py",
+				"/home/taweel/shahry/shahry/users/tests/factories.py",
+				"/home/taweel/shahry/shahry/core/utils.py",
+				"/home/taweel/shahry/shahry/merchants/models.py",
+				"/home/taweel/shahry/shahry/merchants/tests/test_views.py",
+				"/home/taweel/shahry/shahry/core/models.py",
+				"/home/taweel/web-yaoota/yaoota/locale/ar_AE/LC_MESSAGES/django.po",
+				"/home/taweel/web-yaoota/yaoota/locale/ar_EG/LC_MESSAGES/django.po",
+				"/home/taweel/web-yaoota/yaoota/locale/ar_SA/LC_MESSAGES/django.po",
+				"/home/taweel/web-yaoota/common/templates/footer.html",
+				"/home/taweel/web-yaoota/yaoota/core/views.py",
+				"/home/taweel/web-yaoota/yaoota/config/urls.py",
+				"/home/taweel/web-yaoota/yaoota/pages/views.py",
+				"/home/taweel/web-yaoota/venv/lib/python2.7/site-packages/django/views/generic/base.py",
+				"/home/taweel/mobihall/mobihall-mobile/footer.php",
+				"/home/taweel/web-yaoota/yaoota/config/settings/common.py",
+				"/home/taweel/web-yaoota/yaoota/core/fields.py",
+				"/home/taweel/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/usr/lib/python2.7/ctypes/__init__.py",
+				"/home/taweel/web-yaoota/yaoota_sso/requirements/local.txt",
+				"/home/taweel/web-yaoota/yaoota_sso/requirements/bleed.txt",
+				"/home/taweel/web-yaoota/yaoota/specs/tests/test_apis.py",
+				"/home/taweel/web-yaoota/yaoota/specs/factories.py",
+				"/home/taweel/web-yaoota/yaoota/specs/serializers.py",
+				"/home/taweel/web-yaoota/yaoota/templates/pages/index.src.html",
+				"/home/taweel/web-yaoota/common/templates/header.html",
+				"/home/taweel/web-yaoota/venv/lib/python2.7/site-packages/django/contrib/admin/options.py",
+				"/home/taweel/web-yaoota/venv/lib/python2.7/site-packages/django/contrib/admin/__init__.py",
+				"/home/taweel/web-yaoota/yaoota/specs/tests/test_models.py",
+				"/home/taweel/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/taweel/.config/sublime-text-3/Packages/Anaconda/Default (Linux).sublime-keymap",
+				"/home/taweel/web-yaoota/venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py",
+				"/home/taweel/web-yaoota/venv/lib/python2.7/site-packages/django/forms/fields.py",
+				"/home/taweel/web-yaoota/yaoota/search/indexer/indexer.go",
+				"/home/taweel/.config/sublime-text-3/Packages/User/golang.sublime-settings",
+				"/home/taweel/shahry/shahry/locations/models.py",
+				"/home/taweel/shahry/venv/lib/python3.5/site-packages/django/contrib/gis/geoip2/resources.py",
+				"/home/taweel/shahry/venv/lib/python3.5/site-packages/django/db/models/fields/__init__.py",
+				"/home/taweel/.config/sublime-text-3/Packages/Djaneiro/Settings/HTML (Django).sublime-settings",
+				"/home/taweel/.config/sublime-text-3/Packages/User/Python (Django).sublime-settings",
+				"/home/taweel/shahry/docker-compose.yml",
+				"/home/taweel/shahry/dev.yml",
+				"/home/taweel/web-yaoota/provisioning/all.yml",
+				"/home/taweel/web-yaoota/yaoota/products/models.py",
+				"/home/taweel/web-yaoota/yaoota/products/factories.py",
+				"/home/taweel/web-yaoota/yaoota/core/admin_views.py",
+				"/home/taweel/web-yaoota/yaoota/crawledproducts/tests/test_models.py"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 170.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"self"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 44.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"merch models",
+						"shahry/merchants/models.py"
+					],
+					[
+						"local.p",
+						"yaoota/config/settings/local.py"
+					],
+					[
+						"provisioning/roles/elasticsearch/templates/elasticsearch.yml.j2",
+						"provisioning/roles/elasticsearch/templates/elasticsearch.yml.j2"
+					],
+					[
+						" provisioning/roles/elasticsearch/templates/supervisor.conf.j2",
+						"provisioning/roles/elasticsearch/templates/supervisor.conf.j2"
+					],
+					[
+						"shary cor u",
+						"shahry/core/utils.py"
+					],
+					[
+						"footer",
+						"common/templates/footer.html"
+					],
+					[
+						"foo",
+						"footer.php"
+					],
+					[
+						"hea",
+						"header.php"
+					],
+					[
+						".",
+						".htaccess"
+					],
+					[
+						"yaoo com sett",
+						"yaoota/config/settings/common.py"
+					],
+					[
+						" yaoota core fields.py",
+						"yaoota/core/fields.py"
+					],
+					[
+						"yaoota spec mode",
+						"yaoota/specs/models.py"
+					],
+					[
+						"loan mode",
+						"shahry/loans/models.py"
+					],
+					[
+						"shah mercha mo",
+						"shahry/merchants/models.py"
+					],
+					[
+						"yaoo requ ba",
+						"yaoota_sso/requirements/base.txt"
+					],
+					[
+						"do",
+						"docker-compose.yml"
+					],
+					[
+						"le",
+						"left.php"
+					],
+					[
+						"ind",
+						"index.php"
+					],
+					[
+						"fo",
+						"inc-shamel/footer.php"
+					],
+					[
+						"inde",
+						"index.php"
+					],
+					[
+						"header.h",
+						"common/templates/header.html"
+					],
+					[
+						"yaoo spec mode",
+						"yaoota/specs/models.py"
+					],
+					[
+						"sha mer mo",
+						"shahry/merchants/models.py"
+					],
+					[
+						"prov all",
+						"provisioning/all.yml"
+					],
+					[
+						"yaoot prod mode",
+						"yaoota/products/models.py"
+					],
+					[
+						"produst mode",
+						"yaoota/crawledproducts/tests/test_models.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 808.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 275.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"cre",
+						"credentials"
+					],
+					[
+						"cr",
+						"create"
+					],
+					[
+						"test",
+						"tests"
+					],
+					[
+						"Op",
+						"OptionManager\tclass"
+					],
+					[
+						"TR",
+						"True\tinstance"
+					],
+					[
+						"V",
+						"ValidationError\tclass"
+					],
+					[
+						"ver",
+						"verifier_client\tstatement"
+					],
+					[
+						"LAN",
+						"LANGUAGE_CODE"
+					],
+					[
+						"s",
+						"status\tstatement"
+					],
+					[
+						"app",
+						"approve"
+					],
+					[
+						"st",
+						"string\tstatement"
+					],
+					[
+						"for",
+						"format\tfunction"
+					],
+					[
+						"p",
+						"prefix"
+					],
+					[
+						"op",
+						"OptionInline\tclass"
+					],
+					[
+						"su",
+						"suffix"
+					],
+					[
+						"max",
+						"max_length"
+					],
+					[
+						"model",
+						"models\tmodule"
+					],
+					[
+						"Bra",
+						"Branch\tclass"
+					],
+					[
+						"br",
+						"branch\tstatement"
+					],
+					[
+						"assertI",
+						"assertIsInstance\tfunction"
+					],
+					[
+						"Bran",
+						"BranchFactory\tclass"
+					],
+					[
+						"fac",
+						"factory"
+					],
+					[
+						"VAL",
+						"validators"
+					],
+					[
+						"emai",
+						"EmailValidator\tclass"
+					],
+					[
+						"SE",
+						"SET_NULL\tfunction"
+					],
+					[
+						"lo",
+						"locations\tmodule"
+					],
+					[
+						"Co",
+						"Country"
+					],
+					[
+						"ci",
+						"City\tmodule"
+					],
+					[
+						"For",
+						"ForeignKey\tclass"
+					],
+					[
+						"in",
+						"instance\tparam"
+					],
+					[
+						"fil",
+						"filename"
+					],
+					[
+						"FIle",
+						"FileField\tclass"
+					],
+					[
+						"co",
+						"core\tmodule"
+					],
+					[
+						"ma",
+						"max_length"
+					],
+					[
+						"ch",
+						"CharField"
+					],
+					[
+						"mode",
+						"models\tmodule"
+					],
+					[
+						"C",
+						"CharField"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "package main\n\nimport (\n\t\"context\"\n\t\"database/sql\"\n\t\"fmt\"\n\t\"io\"\n\t\"io/ioutil\"\n\t\"os\"\n\t\"regexp\"\n\t\"runtime\"\n\t\"strings\"\n\t\"time\"\n\n\t\"github.com/bbalet/stopwords\"\n\t\"github.com/deckarep/golang-set\"\n\t\"github.com/fatih/structs\"\n\t\"github.com/flyingelephantlab/gothumbor\"\n\t\"github.com/joho/godotenv\"\n\t_ \"github.com/lib/pq\"\n\t\"github.com/metal3d/go-slugify\"\n\t\"gopkg.in/olivere/elastic.v5\"\n\t\"gopkg.in/urfave/cli.v1\"\n)\n\ntype Suggest struct {\n\tInput  []string `structs:\"input\" json:\"input\"`\n\tWeight int      `structs:\"weight\" json:\"weight\"`\n}\n\n// Record a database row\ntype Record struct {\n\tPid                    int         `structs:\"id\"                        json:\"id\"`\n\tTitleEN                string      `structs:\"title_en\"                  json:\"title_en\"`\n\tTitleAR                string      `structs:\"title_ar\"                  json:\"title_ar\"`\n\tPrice                  float64     `structs:\"price\"                     json:\"price\"`\n\tPriceDrop              float64     `structs:\"price_drop\"                json:\"price_drop\"`\n\tPriceDropPercentage    float64     `structs:\"price_drop_percentage\"     json:\"price_drop_percentage\"`\n\tDescriptionEN          string      `structs:\"description_en\"            json:\"description_en\"`\n\tDescriptionENLength    int         `structs:\"description_en_length\"     json:\"description_en_length\"`\n\tDescriptionAR          string      `structs:\"description_ar\"            json:\"description_ar\"`\n\tDescriptionARLength    int         `structs:\"description_ar_length\"     json:\"description_ar_length\"`\n\tCid                    int         `structs:\"category_id\"               json:\"category_id\"`\n\tCategoryNameEN         string      `structs:\"category_name_en\"          json:\"category_name_en\"`\n\tCategoryNameAR         string      `structs:\"category_name_ar\"          json:\"category_name_ar\"`\n\tCategoryProminence     float64     `structs:\"category_prominence\"       json:\"category_prominence\"`\n\tMid                    int         `structs:\"merchant_id\"               json:\"merchant_id\"`\n\tMerchantName           string      `structs:\"merchant_name\"             json:\"merchant_name\"`\n\tOfficialMerchantNameEN string      `structs:\"official_merchant_name_en\" json:\"official_merchant_name_en\"`\n\tOfficialMerchantNameAR string      `structs:\"official_merchant_name_ar\" json:\"official_merchant_name_ar\"`\n\tCostPerClick           float64     `structs:\"cost_per_click\"            json:\"cost_per_click\"`\n\tTrackingURL            string      `structs:\"tracking_url\"              json:\"tracking_url\"`\n\tReviewCount            int64       `structs:\"review_count\"              json:\"review_count\"`\n\tBuyURL                 string      `structs:\"buy_url\"                   json:\"buy_url\"`\n\tProductURL             string      `structs:\"product_url\"               json:\"product_url\"`\n\tImage                  string      `structs:\"image\"                     json:\"image\"`\n\tSmallImage             string      `structs:\"small_image\"               json:\"small_image\"`\n\tMobileImage            string      `structs:\"mobile_image\"              json:\"mobile_image\"`\n\tSlug                   string      `structs:\"slug\"                      json:\"slug\"`\n\tSpecsEN                string      `structs:\"specs_en,omitempty\"        json:\"specs_en,omitempty\"`\n\tSpecsENLength          int         `structs:\"specs_en_length\"           json:\"specs_en_length\"`\n\tSpecsAR                string      `structs:\"specs_ar,omitempty\"        json:\"specs_ar,omitempty\"`\n\tSpecsARLength          int         `structs:\"specs_ar_length\"           json:\"specs_ar_length\"`\n\tManufacturerEN         string      `structs:\"manufacturer_en,omitempty\" json:\"manufacturer_en,omitempty\"`\n\tManufacturerAR         string      `structs:\"manufacturer_ar,omitempty\" json:\"manufacturer_ar,omitempty\"`\n\tSuggest                Suggest     `structs:\"suggest\"                   json:\"suggest\"`\n\t// check the type to index\n\tSpecs                  map[string]interface{} `structs:\"specs\"                    json:\"specs\"`\n\tAverageRating          float64     `structs:\"average_rating\"            json:\"average_rating\"`\n\tPopularity             int         `structs:\"popularity\"                json:\"popularity\"`\n}\n\nvar thumbnailSizes = map[string]Thumbnail{\n\t\"mobile_avatar\": Thumbnail{\n\t\t225,\n\t\t225,\n\t\tfalse,\n\t\tfalse,\n\t\ttrue,\n\t\t[]string{\"quality(80)\"},\n\t},\n\t\"big_avatar\": Thumbnail{\n\t\t148,\n\t\t148,\n\t\tfalse,\n\t\tfalse,\n\t\ttrue,\n\t\t[]string{\"quality(80)\"},\n\t},\n\t\"small_avatar\": Thumbnail{\n\t\t80,\n\t\t80,\n\t\tfalse,\n\t\tfalse,\n\t\ttrue,\n\t\t[]string{\"quality(80)\"},\n\t},\n\t\"tiny_avatar\": Thumbnail{\n\t\t50,\n\t\t50,\n\t\tfalse,\n\t\tfalse,\n\t\ttrue,\n\t\t[]string{\"quality(80)\"},\n\t},\n\t\"big_product\": Thumbnail{\n\t\t200,\n\t\t200,\n\t\tfalse,\n\t\ttrue,\n\t\ttrue,\n\t\t[]string{\"quality(80)\"},\n\t},\n\t\"small_product\": Thumbnail{\n\t\t120,\n\t\t120,\n\t\tfalse,\n\t\ttrue,\n\t\ttrue,\n\t\t[]string{\"quality(80)\"},\n\t},\n\t\"mobile_product\": {\n\t\t150,\n\t\t150,\n\t\tfalse,\n\t\ttrue,\n\t\ttrue,\n\t\t[]string{\"quality(80)\"},\n\t},\n\t\"tiny_product\": {\n\t\t80,\n\t\t80,\n\t\tfalse,\n\t\ttrue,\n\t\ttrue,\n\t\t[]string{\"quality(80)\"},\n\t},\n\t\"little_product\": {\n\t\t70,\n\t\t70,\n\t\tfalse,\n\t\ttrue,\n\t\ttrue,\n\t\t[]string{\"quality(80)\"},\n\t},\n\t\"similar_product\": {\n\t\t45,\n\t\t45,\n\t\tfalse,\n\t\ttrue,\n\t\ttrue,\n\t\t[]string{\"quality(80)\"},\n\t},\n}\n\n// Thumbnail a thumbor photo\ntype Thumbnail struct {\n\tWidth   int\n\tHeight  int\n\tSmart   bool\n\tTrim    bool\n\tFitIn   bool\n\tFilters []string\n}\n\n//var totalCount = 0\nvar indexingWorkers = runtime.GOMAXPROCS(runtime.NumCPU())\nvar envFile string\nvar settingsFile string\nvar testEnabled bool\nvar aliasName string\nvar processError func(error)\n\nconst docType = \"products\"\nconst indexingBatchSize = 5000\n\nconst staleProductsQuery = `SELECT p.id FROM products_product p INNER JOIN crawledproducts_crawledproduct cp\nON cp.id = p.crawled_product_id WHERE p.stock_status = 'IN_STOCK' AND cp.is_deleted_permanently = False AND\ncp.is_disapproved = False AND cp.stock_status = 'IN_STOCK';`\n\nfunc createApp() *cli.App {\n\tapp := cli.NewApp()\n\tapp.Name = \"indexer\"\n\tapp.Usage = \"Retrieves data from PostgreSQL for indexing in elasticsearch.\"\n\tapp.Version = \"0.1\"\n\tapp.UsageText = \"indexer - index data into elasticsearch from PostgreSQL\"\n\tapp.Compiled = time.Now()\n\tapp.Flags = []cli.Flag{\n\t\tcli.StringFlag{\n\t\t\tName:        \"alias\",\n\t\t\tUsage:       \"Alias to use for operations\",\n\t\t\tDestination: &aliasName,\n\t\t},\n\t\tcli.StringFlag{\n\t\t\tName:        \"env\",\n\t\t\tUsage:       \"Location of the env file\",\n\t\t\tValue:       \".env\",\n\t\t\tDestination: &envFile,\n\t\t},\n\t\tcli.StringFlag{\n\t\t\tName:        \"settings\",\n\t\t\tUsage:       \"Location of the settings file\",\n\t\t\tValue:       \"settings.json\",\n\t\t\tDestination: &settingsFile,\n\t\t},\n\t\tcli.BoolFlag{\n\t\t\tName:        \"test\",\n\t\t\tUsage:       \"Enable test mode, using TEST_DATABSE_URL and TEST ES_INDEX\",\n\t\t\tDestination: &testEnabled,\n\t\t},\n\t}\n\tapp.Commands = []cli.Command{\n\t\t{\n\t\t\tName:        \"index\",\n\t\t\tAliases:     []string{\"i\"},\n\t\t\tUsage:       \"Index all documents\",\n\t\t\tDescription: \"Queries the database for all the relevant products and sends them to elasticsearch for indexing.\",\n\t\t\tAction: func(ctx *cli.Context) error {\n\t\t\t\terr := godotenv.Load(envFile)\n\t\t\t\tprocessError(err)\n\t\t\t\tindexAll()\n\t\t\t\treturn nil\n\t\t\t},\n\t\t},\n\t\t{\n\t\t\tName:        \"clear\",\n\t\t\tAliases:     []string{\"c\"},\n\t\t\tUsage:       \"Clear stale products\",\n\t\t\tDescription: \"Deletes irrelevant products from the index.\",\n\t\t\tAction: func(ctx *cli.Context) error {\n\t\t\t\terr := godotenv.Load(envFile)\n\t\t\t\tprocessError(err)\n\t\t\t\tremoveStaleProducts()\n\t\t\t\treturn nil\n\t\t\t},\n\t\t},\n\t\t{\n\t\t\tName:    \"update\",\n\t\t\tAliases: []string{\"u\"},\n\t\t\tFlags: []cli.Flag{\n\t\t\t\tcli.Int64SliceFlag{Name: \"ids\"},\n\t\t\t\tcli.Int64Flag{Name: \"age\"},\n\t\t\t},\n\t\t\tUsage:       \"Update product\",\n\t\t\tDescription: \"Updates products given their ids\",\n\t\t\tAction: func(ctx *cli.Context) error {\n\t\t\t\terr := godotenv.Load(envFile)\n\t\t\t\tprocessError(err)\n\t\t\t\tif ctx.IsSet(\"ids\") {\n\t\t\t\t\t// USAGE: --ids xxxx --ids xxxx --ids xxxx\n\t\t\t\t\t// https://github.com/urfave/cli/issues/62\n\t\t\t\t\tupdateProductByID(ctx.Int64Slice(\"ids\"))\n\t\t\t\t} else if ctx.IsSet(\"age\") {\n\t\t\t\t\tupdateProductByAge(ctx.Int64(\"age\"))\n\t\t\t\t} else {\n\t\t\t\t\tfmt.Println(\"please provide an update parameter.\")\n\t\t\t\t}\n\t\t\t\treturn nil\n\t\t\t},\n\t\t},\n\t\t{\n\t\t\tName:    \"delete\",\n\t\t\tAliases: []string{\"d\"},\n\t\t\tFlags: []cli.Flag{\n\t\t\t\tcli.Int64Flag{Name: \"id\"},\n\t\t\t},\n\t\t\tUsage:       \"Delete product\",\n\t\t\tDescription: \"Deletes a single product given its id\",\n\t\t\tAction: func(ctx *cli.Context) error {\n\t\t\t\terr := godotenv.Load(envFile)\n\t\t\t\tprocessError(err)\n\t\t\t\tdeleteProduct(ctx.Int64(\"id\"))\n\t\t\t\treturn nil\n\t\t\t},\n\t\t},\n\t}\n\treturn app\n}\n\nfunc init() {\n\tprocessError = getLogStage()\n}\n\nfunc main() {\n\tapp := createApp()\n\tapp.Run(os.Args)\n}\n\nfunc getAliasName() string {\n\tif testEnabled {\n\t\treturn fmt.Sprintf(\"test_%v\", os.Getenv(\"ES_INDEX\"))\n\t}\n\treturn os.Getenv(\"ES_INDEX\")\n}\n\nfunc indexAll() {\n\tproductsQuery := prepareProductsQuery()\n\tstart := time.Now()\n\n\tdone := make(chan bool, 1)\n\tdefer close(done)\n\trows := fetchRows(productsQuery)\n\tdefer rows.Close()\n\n\tclient := esConnect()\n\tdefer client.Stop()\n\n\tif aliasName == \"\" {\n\t\taliasName = getAliasName()\n\t}\n\n\tnewIndexName := fmt.Sprintf(\"%s_%v\", aliasName, time.Now().Unix())\n\n\tcreateIndex(client, newIndexName)\n\n\tprocessor := prepareProcessor(client)\n\tdefer processor.Close()\n\n\tgo updateIndex(rows, processor, done, newIndexName)\n\n\t// Wait for indexing to finish...\n\t<-done\n\n\tresetIndexSettings(client, newIndexName)\n\n\tfmt.Println(\"link alias to new index....\")\n\tcreateOrLinkAlias(client, newIndexName, aliasName)\n\tfmt.Println(\"Unlink old index and remove them if exist....\")\n\tremoveOldIndices(client, newIndexName, aliasName)\n\tfmt.Printf(\"Operation took: %v\\n\", time.Since(start))\n}\n\nfunc removeStaleProducts() {\n\tfsc := elastic.NewFetchSourceContext(false)\n\tdifference(staleProductsQuery, fsc)\n}\n\nfunc difference(query string, fsc *elastic.FetchSourceContext) {\n\trows := fetchRows(query)\n\tdefer rows.Close()\n\tdatabaseIds := mapset.NewSet()\n\tfor rows.Next() {\n\t\tvar id string\n\t\terr := rows.Scan(&id)\n\t\tprocessError(err)\n\t\tdatabaseIds.Add(id)\n\t}\n\tclient := esConnect()\n\tdefer client.Stop()\n\tsvc := client.Scroll(aliasName).Size(20).FetchSourceContext(fsc)\n\telasticsearchIds := mapset.NewSet()\n\tfor {\n\t\t// Loop as long as there are pages in the result\n\t\tres, err := svc.Do(context.TODO())\n\t\tif err == io.EOF {\n\t\t\tbreak\n\t\t} else {\n\t\t\tprocessError(err)\n\t\t}\n\t\tfor _, v := range res.Hits.Hits {\n\t\t\telasticsearchIds.Add(v.Id)\n\t\t}\n\t}\n\n\tdifference := elasticsearchIds.Difference(databaseIds).ToSlice()\n\tfmt.Printf(\"DB: %v\\n\", len(databaseIds.ToSlice()))\n\tfmt.Printf(\"ES: %v\\n\", len(elasticsearchIds.ToSlice()))\n\tfmt.Printf(\"Stale products: %v\\n\", len(difference))\n\tif len(difference) > 0 {\n\t\tdelete(client, difference)\n\t}\n}\n\nfunc updateProductByID(ids []int64) {\n\taliasName = getAliasName()\n\tproductsQuery := prepareProductsQuery()\n\tquery := productsQuery[:len(productsQuery)-1] + \" AND p.id IN (%v);\"\n\tclient := esConnect()\n\tif len(ids) <= 0 {\n\t\tfmt.Println(\"Please provide a valid product id.\")\n\t} else if len(ids) == 1 {\n\t\tid := ids[0]\n\t\trow := fetchRows(fmt.Sprintf(query, id))\n\t\tdefer row.Close()\n\t\tif row.Next() {\n\t\t\tr := getRecord(row)\n\t\t\tdoc := structs.Map(r)\n\t\t\tupdateResponse, err := client.Update().Index(aliasName).Type(docType).Id(fmt.Sprintf(\"%v\", id)).Doc(doc).Do(context.TODO())\n\t\t\tprocessError(err)\n\t\t\tfmt.Printf(\"Updated document with id: %v to version %v.\\n\", updateResponse.Id, updateResponse.Version)\n\t\t} else {\n\t\t\tfmt.Println(\"Please provide a valid product id.\")\n\t\t}\n\t} else {\n\t\tvar idStrings []string\n\t\tfor _, id := range ids {\n\t\t\tidStrings = append(idStrings, fmt.Sprintf(\"%v\", id))\n\t\t}\n\t\tquery = fmt.Sprintf(query, strings.Join(idStrings, \", \"))\n\t\trows := fetchRows(query)\n\t\tdefer rows.Close()\n\t\tproc := prepareProcessor(client)\n\t\tdefer proc.Close()\n\t\tfor rows.Next() {\n\t\t\tr := getRecord(rows)\n\t\t\tupdate(proc, r)\n\t\t}\n\t}\n}\n\nfunc updateProductByAge(age int64) {\n\taliasName = getAliasName()\n\tproductsQuery := prepareProductsQuery()\n\tconditionQuery := ` AND GREATEST(p.modified, c.modified, cp.modified, (SELECT MAX(pr.modified) FROM products_productreview pr WHERE pr.target_id = p.id group by p.id)) >= (CURRENT_TIMESTAMP - interval '%v Hour');`\n\tquery := fmt.Sprintf(productsQuery[:len(productsQuery)-1]+conditionQuery, age)\n\tclient := esConnect()\n\tdefer client.Stop()\n\trows := fetchRows(query)\n\tdefer rows.Close()\n\tproc := prepareProcessor(client)\n\tdefer proc.Close()\n\tfor rows.Next() {\n\t\tr := getRecord(rows)\n\t\tupdate(proc, r)\n\t}\n}\n\nfunc deleteProduct(id int64) {\n\tif !checkProductByID(id) {\n\t\treturn\n\t}\n\taliasName = getAliasName()\n\tclient := esConnect()\n\tdeleteResponse, err := client.Delete().\n\t\tIndex(aliasName).\n\t\tType(docType).\n\t\tId(fmt.Sprintf(\"%v\", id)).\n\t\tDo(context.TODO())\n\tprocessError(err)\n\tfmt.Printf(\"Deleted product with id: %v.\\n\", deleteResponse.Id)\n}\n\nfunc checkProductByID(id int64) bool {\n\taliasName = getAliasName()\n\tif id <= 0 {\n\t\tfmt.Println(\"Please provide a valid product id.\")\n\t} else {\n\t\tclient := esConnect()\n\t\tget1, err := client.Get().\n\t\t\tIndex(aliasName).\n\t\t\tType(docType).\n\t\t\tId(fmt.Sprintf(\"%v\", id)).\n\t\t\tDo(context.TODO())\n\n\t\tif err != nil {\n\t\t\tfmt.Printf(\"Could not find the product with id %v \", id)\n\t\t\treturn false\n\t\t}\n\n\t\tif get1.Found {\n\t\t\tfmt.Printf(\"Product with id %v is found \\n\", id)\n\t\t\treturn true\n\t\t}\n\t}\n\treturn false\n}\n\nfunc updateIndex(rows *sql.Rows, processor *elastic.BulkProcessor, done chan bool, aliasName string) {\n\tfmt.Println(\"Indexing...\")\n\tfor rows.Next() {\n\t\tr := getRecord(rows)\n\t\tindexRecord(processor, r, aliasName)\n\t}\n\tdone <- true\n}\n\n// This runs before a bulk operation is performed\nfunc preIndex(id int64, requests []elastic.BulkableRequest) {\n\tfmt.Printf(\"Request ID %v Started.\\n\", id)\n}\n\n// This runs after a bulk operation has completed\nfunc postIndex(id int64, requests []elastic.BulkableRequest, response *elastic.BulkResponse, err error) {\n\tprocessError(err)\n\tif len(response.Failed()) > 0 {\n\t\tfor _, f := range response.Failed() {\n\t\t\tfmt.Printf(\"Error: %v\\n\", f.Error.CausedBy)\n\t\t}\n\t\tfmt.Printf(\"Failed: %v\\n\", len(response.Failed()))\n\t}\n\tfmt.Printf(\"Request ID %v Finished. (Took %v milliseconds)\\n\", id, response.Took)\n\t//totalCount += len(response.Items)\n\tfmt.Printf(\"Processed %v items.\\n\", len(response.Items))\n}\n\nfunc prepareProcessor(client *elastic.Client) *elastic.BulkProcessor {\n\tprocessor, err := client.\n\t\tBulkProcessor().\n\t\tName(\"Processor\").\n\t\tWorkers(indexingWorkers).\n\t\tBulkActions(indexingBatchSize).\n\t\tBefore(preIndex).\n\t\tAfter(postIndex).\n\t\tStats(true).\n\t\tDo(context.Background())\n\tprocessError(err)\n\treturn processor\n}\n\nfunc fetchRows(query string) *sql.Rows {\n\tfmt.Println(\"Connecting to postgres...\")\n\tdb := dbConnect()\n\tdefer db.Close()\n\tfmt.Println(\"Executing query...\")\n\trows, err := db.Query(query)\n\tprocessError(err)\n\treturn rows\n}\n\nfunc dbConnect() *sql.DB {\n\tvar dbURL string\n\tif testEnabled {\n\t\tdbURL = os.Getenv(\"TEST_DATABASE_URL\")\n\t} else {\n\t\tdbURL = os.Getenv(\"DATABASE_URL\")\n\t}\n\n\tdb, err := sql.Open(\"postgres\", dbURL+\"?sslmode=disable\")\n\tprocessError(err)\n\treturn db\n}\n\nfunc esConnect() *elastic.Client {\n\tfmt.Println(\"Connecting to elasticsearch...\")\n\tesURL := os.Getenv(\"ES_HOST\")\n\tclient, err := elastic.NewClient(elastic.SetURL(esURL))\n\tprocessError(err)\n\treturn client\n}\n\nfunc createIndex(client *elastic.Client, name string) {\n\tfmt.Println(\"Creating index...\")\n\t_, err := os.Executable()\n\tprocessError(err)\n\tsettings, err := ioutil.ReadFile(settingsFile)\n\tprocessError(err)\n\tresp, err := client.CreateIndex(name).BodyString(string(settings)).Do(context.TODO())\n\tprocessError(err)\n\tif !resp.Acknowledged {\n\t\tpanic(\"Mapping failed.\")\n\t}\n}\n\nfunc createOrLinkAlias(client *elastic.Client, indexName string, aliaseName string) {\n\t_, err := elastic.NewAliasService(client).Add(indexName, aliasName).Do(context.TODO())\n\tprocessError(err)\n}\n\nfunc removeAliasFromIndex(client *elastic.Client, indexName string, aliaseName string) {\n\t_, err := elastic.NewAliasService(client).Remove(indexName, aliasName).Do(context.TODO())\n\tprocessError(err)\n}\n\nfunc removeOldIndices(client *elastic.Client, indexName string, aliasName string) {\n\tfor _, indexElement := range indexNamesByAlias(client, aliasName) {\n\t\tif indexElement == indexName {\n\t\t\tcontinue\n\t\t}\n\t\t// remove alias\n\t\tremoveAliasFromIndex(client, indexElement, aliasName)\n\t\t// Delete an index.\n\t\tdeleteIndex, err := client.DeleteIndex(indexElement).Do(context.TODO())\n\t\tprocessError(err)\n\t\tif !deleteIndex.Acknowledged {\n\t\t\tpanic(\"index %v was not deleted\")\n\t\t}\n\t}\n}\n\n// indexNamesByAlias returns a list of index names that are\n// associated by the given aliasName.\nfunc indexNamesByAlias(client *elastic.Client, aliasName string) []string {\n\tres, err := client.Aliases().Index(\"_all\").Do(context.TODO())\n\tprocessError(err)\n\treturn res.IndicesByAlias(aliasName)\n}\n\nfunc resetIndexSettings(client *elastic.Client, indexName string) {\n\t// Enable refresh_interval to read the updated data\n\tfmt.Println(\"Reverting refresh interval to default...\")\n\tbody := `{\n\t\t\t\t\"index\":{\n\t\t\t\t\t\"refresh_interval\":\"1s\"\n\t\t\t\t}\n\t\t\t }`\n\t_, err := client.IndexPutSettings().Index(indexName).BodyString(body).Do(context.TODO())\n\tprocessError(err)\n\tfmt.Println(\"Index force merge in progress...\")\n\t_, err = client.Forcemerge(indexName).MaxNumSegments(1).Do(context.TODO())\n\tprocessError(err)\n}\n\nfunc indexRecord(processor *elastic.BulkProcessor, r Record, aliasName string) {\n\treq := elastic.NewBulkIndexRequest().\n\t\tIndex(aliasName).\n\t\tType(docType).\n\t\tDoc(r).\n\t\tId(fmt.Sprintf(\"%v\", r.Pid))\n\tprocessor.Add(req)\n}\n\nfunc update(processor *elastic.BulkProcessor, r Record) {\n\taliasName = getAliasName()\n\tdoc := structs.Map(r)\n\treq := elastic.NewBulkUpdateRequest().\n\t\tIndex(aliasName).\n\t\tType(docType).\n\t\tDocAsUpsert(true).\n\t\tDoc(doc).\n\t\tId(fmt.Sprintf(\"%v\", r.Pid))\n\tprocessor.Add(req)\n\n}\n\nfunc delete(client *elastic.Client, ids []interface{}) {\n\taliasName = getAliasName()\n\tcount := 0\n\tfor _, id := range ids {\n\t\t_, err := client.Delete().Index(aliasName).Type(docType).Id(id.(string)).Do(context.TODO())\n\t\tprocessError(err)\n\t\tcount++\n\t}\n\tfmt.Printf(\"Deleted %v items.\", count)\n}\n\nfunc imageURL(imagePath sql.NullString, thumbnail Thumbnail) string {\n\t// Image urls: generate using go-thumbor\n\tthumborKey := os.Getenv(\"DJANGO_THUMBOR_SECURITY_KEY\")\n\tthumborServer := os.Getenv(\"DJANGO_THUMBOR_SERVER\")\n\tbucketName := os.Getenv(\"DJANGO_AWS_STORAGE_BUCKET_NAME\")\n\timgPath := fmt.Sprintf(\"%v/media/%v\", bucketName, imagePath.String)\n\tthumborOptions := gothumbor.ThumborOptions{Width: thumbnail.Width, Height: thumbnail.Height,\n\t\tTrim: thumbnail.Trim, Smart: thumbnail.Smart,\n\t\tFitIn: thumbnail.FitIn, Filters: thumbnail.Filters}\n\turl, err := gothumbor.GetCryptedThumborPath(thumborKey, imgPath, thumborOptions)\n\tprocessError(err)\n\treturn fmt.Sprintf(\"%v/%v\", thumborServer, url)\n}\n\nfunc productURL(slug string, merchantName string) string {\n\t// product_url: slugify(product slug + merchant_name + country from env.)\n\tproductURLPattern := \"/en-%v/product/%v-price-from-%v-%v\"\n\tcountry := strings.ToLower(slugify.Marshal(os.Getenv(\"DJANGO_COUNTRY\")))\n\tcountryCode := os.Getenv(\"DJANGO_COUNTRY_CODE\")\n\treturn fmt.Sprintf(productURLPattern, countryCode, slug, merchantName, country)\n}\n\nfunc buyURL(trackingURL string, productURL string) string {\n\t// Transform tracking url to a buy url.\n\tif len(trackingURL) > 0 {\n\t\tproductURL = strings.Replace(trackingURL, \"<product_url>\", productURL, -1)\n\t\tmatches := strings.Count(productURL, \"?\")\n\t\tif matches > 1 {\n\t\t\tparts := strings.SplitAfterN(productURL, \"?\", 2)\n\t\t\ttail := strings.Replace(parts[1], \"?\", \"&\", matches)\n\t\t\tproductURL = parts[0] + tail\n\t\t}\n\t} else {\n\t\tparams := \"utm_source=yaoota&utm_medium=cpc&utm_campaign=yaoota\"\n\t\tif strings.ContainsRune(productURL, '?') {\n\t\t\tproductURL += \"&\" + params\n\t\t} else {\n\t\t\tproductURL += \"?\" + params\n\t\t}\n\t}\n\treturn productURL\n}\n\nfunc getRecord(rows *sql.Rows) (r Record) {\n\tvar trackingURL string\n\tvar productURLEN string\n\tvar imagePath, SpecsEN, SpecsAR, ManufacturerEN, ManufacturerAR, TitleAR, DescriptionAR, CategoryNameAR, OfficialMerchantNameAR sql.NullString\n\tvar AverageRating sql.NullFloat64\n\tvar ReviewCount sql.NullInt64\n\terr := rows.Scan(&r.Pid, &r.TitleEN, &TitleAR, &r.Price, &r.PriceDrop, &r.PriceDropPercentage, &r.DescriptionEN, &DescriptionAR,\n\t\t&r.Cid, &r.CategoryNameEN, &CategoryNameAR, &r.CategoryProminence, &r.Mid, &r.MerchantName, &r.OfficialMerchantNameEN,\n\t\t&OfficialMerchantNameAR, &r.CostPerClick, &trackingURL, &productURLEN,\n\t\t&r.Slug, &AverageRating, &r.Specs, &ReviewCount, &imagePath, &r.Popularity, &SpecsEN, &SpecsAR, &ManufacturerEN, &ManufacturerAR)\n\tprocessError(err)\n\tr.DescriptionENLength = len(r.DescriptionEN)\n\tif TitleAR.Valid {\n\t\tr.TitleAR = TitleAR.String\n\t} else {\n\t\tr.TitleAR = \"\"\n\t}\n\tif DescriptionAR.Valid {\n\t\tr.DescriptionAR = DescriptionAR.String\n\t} else {\n\t\tr.DescriptionAR = \"\"\n\t}\n\tr.DescriptionARLength = len(r.DescriptionAR)\n\tif SpecsEN.Valid {\n\t\tr.SpecsEN = SpecsEN.String\n\t} else {\n\t\tr.SpecsEN = \"\"\n\t}\n\tr.SpecsENLength = len(r.SpecsEN)\n\tif SpecsAR.Valid {\n\t\tr.SpecsAR = SpecsAR.String\n\t} else {\n\t\tr.SpecsAR = \"\"\n\t}\n\tr.SpecsARLength = len(r.SpecsAR)\n\tif ManufacturerEN.Valid {\n\t\tr.ManufacturerEN = ManufacturerEN.String\n\t} else {\n\t\tr.ManufacturerEN = \"\"\n\t}\n\tif ManufacturerAR.Valid {\n\t\tr.ManufacturerAR = ManufacturerAR.String\n\t} else {\n\t\tr.ManufacturerAR = \"\"\n\t}\n\tif CategoryNameAR.Valid {\n\t\tr.CategoryNameAR = CategoryNameAR.String\n\t} else {\n\t\tr.CategoryNameAR = \"\"\n\t}\n\tif OfficialMerchantNameAR.Valid {\n\t\tr.OfficialMerchantNameAR = OfficialMerchantNameAR.String\n\t} else {\n\t\tr.OfficialMerchantNameAR = \"\"\n\t}\n\tif AverageRating.Valid {\n\t\tr.AverageRating = AverageRating.Float64\n\t} else {\n\t\tr.AverageRating = 0\n\t}\n\tif ReviewCount.Valid {\n\t\tr.ReviewCount = ReviewCount.Int64\n\t} else {\n\t\tr.ReviewCount = 0\n\t}\n\tr.BuyURL = buyURL(trackingURL, productURLEN)\n\tr.TrackingURL = trackingURL\n\tr.ProductURL = productURL(r.Slug, r.MerchantName)\n\tr.Image = imageURL(imagePath, thumbnailSizes[\"big_product\"])\n\tr.SmallImage = imageURL(imagePath, thumbnailSizes[\"small_product\"])\n\tr.MobileImage = imageURL(imagePath, thumbnailSizes[\"mobile_product\"])\n\tr.Suggest = perms(r.TitleEN, r.TitleAR, r.Popularity)\n\treturn\n}\n\n// find the minimum of 2 int valus.\nfunc min(a, b int) int {\n\tif a < b {\n\t\treturn a\n\t}\n\treturn b\n}\n\nfunc generateShingling(text []string) []string {\n\tfArr := make([]string, 0)\n\tfor k := 0; k < min(5, len(text)); k++ {\n\t\tif text[k] == \" \" || text[k] == \"\" {\n\t\t\tcontinue\n\t\t}\n\t\tfArr = append(fArr, strings.TrimSpace(text[k]))\n\t\tfor i := k + 1; i < min(5, len(text)); i++ {\n\t\t\tif text[i] == \" \" || text[i] == \"\" {\n\t\t\t\tcontinue\n\t\t\t}\n\t\t\tfArr = append(fArr, fArr[len(fArr)-1]+\" \"+strings.TrimSpace(text[i]))\n\t\t}\n\t}\n\treturn fArr\n}\n\n/**\n * Retrieve the w-shingling of a text.\n * Provide the ar. and en. the text of the phrase so they are combined in the same array.\n * Ex: \"Apple iPhone x 128g\" >>> [Apple, Apple iPhone, Apple iPhone x, Apple iPhone x 128, iPhone,  iPhone x, ...]\n */\nfunc perms(textEn string, textAr string, popularity int) Suggest {\n\t// stop removing numbers\n\tstopwords.DontStripDigits()\n\n\t// regex rules\n\tremoveLeadCloseWhtsp := regexp.MustCompile(`^[\\s\\p{Zs}]+|[\\s\\p{Zs}]+$`)\n\tremoveInsideWhtsp := regexp.MustCompile(`[\\s\\p{Zs}]{2,}`)\n\n\t// remove stop words and dashes\n\tcleanTextSplit := strings.Replace(stopwords.CleanString(textEn, \"en\", true), \"-\", \" \", -1)\n\tcleanTextArSplit := strings.Replace(stopwords.CleanString(textAr, \"ar\", true), \"-\", \" \", -1)\n\n\t// apply regex to remove leading, inside and trailing slashss\n\tspaceFreeText := removeLeadCloseWhtsp.ReplaceAllString(cleanTextSplit, \"\")\n\tspaceFreeText = removeInsideWhtsp.ReplaceAllString(cleanTextSplit, \" \")\n\tspaceFreeTextAr := removeLeadCloseWhtsp.ReplaceAllString(cleanTextArSplit, \"\")\n\tspaceFreeTextAr = removeInsideWhtsp.ReplaceAllString(cleanTextArSplit, \" \")\n\n\t// split to generate list\n\ttextSplit := strings.Split(spaceFreeText, \" \")\n\ttextArSplit := strings.Split(spaceFreeTextAr, \" \")\n\n\tfArr := make([]string, 0)\n\n\t// create shinglings of ar and en\n\tfArr = append(fArr, generateShingling(textSplit)...)\n\tfArr = append(fArr, generateShingling(textArSplit)...)\n\n\treturn Suggest{Input: fArr, Weight: popularity}\n}\n\nfunc prepareProductsQuery() string {\n\n\tq := `SELECT p.id, p.title_en, p.title_ar, p.price, p.price_drop, p.price_drop_percentage, p.description_en,\np.description_ar, c.id AS category_id, c.title_en AS category_en, c.title_ar AS category_ar, c.prominence AS category_prominence, m.id AS merchant_id,\nm.name AS merchant_name, m.official_name_en AS official_merchant_name_en, m.official_name_ar AS official_merchant_name_ar, m.cost_per_click, m.tracking_url, p.url_en, p.slug,\n(SELECT AVG(pr.rating) FROM products_productreview pr WHERE pr.target_id = p.id group by p.id) AS average_rating,\n(SELECT json_object(array_agg(sp.slug), array_agg(op.slug))FROM specs_productspec sps INNER JOIN specs_spec sp ON sps.spec_id = sp.id INNER JOIN specs_option op ON sps.value_id = op.id WHERE product_id = p.id) AS specs,\n(SELECT COUNT(pr.id) FROM products_productreview pr WHERE pr.target_id = p.id group by p.id) AS review_count,\n(SELECT image FROM crawledproducts_crawledproductimage cpi WHERE cpi.crawled_product_id = p.crawled_product_id AND cpi.is_primary = True LIMIT 1) AS image_path,\n(SELECT COUNT(*) FROM hitcount_hit h WHERE h.hitcount_id = hc.id AND h.created >= (CURRENT_TIMESTAMP - interval '%v day')) AS popularity, cp.latest_approved_attributes::json->>'specs_en' AS specs_en, cp.latest_approved_attributes::json->>'specs_ar' AS specs_ar, cp.latest_approved_attributes::json->>'manufacturer_en' AS manufacturer_en, cp.latest_approved_attributes::json->>'manufacturer_ar' AS manufacturer_ar FROM products_product p INNER JOIN\ncrawledproducts_crawledproduct cp ON cp.id = p.crawled_product_id LEFT OUTER JOIN hitcount_hit_count hc ON hc.object_pk = p.id  INNER JOIN stores_merchant m ON p.merchant_id = m.id INNER JOIN categories_category c ON p.category_id = c.id \nWHERE cp.is_deleted_permanently = False AND cp.is_disapproved = False AND cp.stock_status = 'IN_STOCK';`\n\n\tpopularity, ok := os.LookupEnv(\"DJANGO_POPULARITY_WINDOW_IN_DAYS\")\n\tif !ok {\n\t\tpopularity = \"7\"\n\t}\n\treturn fmt.Sprintf(q, popularity)\n}\n",
+					"file": "/home/taweel/web-yaoota/yaoota/search/indexer/indexer.go",
+					"file_size": 25953,
+					"file_write_time": 131718806279968803,
+					"settings":
+					{
+						"buffer_size": 25953,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"INST",
+						"Package Control: Install Package"
+					],
+					[
+						"REMOV",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"goto de",
+						"Anaconda: Goto object definition"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 181.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/taweel/web-yaoota",
+				"/home/taweel/web-yaoota/yaoota",
+				"/home/taweel/web-yaoota/yaoota/search",
+				"/home/taweel/web-yaoota/yaoota/search/indexer"
+			],
+			"file_history":
+			[
+				"/home/taweel/web-yaoota/yaoota/search/urls.py",
+				"/home/taweel/shahry/shahry/merchants/tests/factories.py",
+				"/home/taweel/shahry/shahry/users/models.py",
+				"/home/taweel/web-yaoota/yaoota/specs/managers.py",
+				"/home/taweel/web-yaoota/yaoota/specs/models.py",
+				"/home/taweel/web-yaoota/yaoota/specs/admin.py",
+				"/home/taweel/web-yaoota/yaoota/.env",
+				"/home/taweel/web-yaoota/yaoota/config/settings/local.py",
+				"/home/taweel/web-yaoota/provisioning/roles/elasticsearch/templates/supervisor.conf.j2",
+				"/home/taweel/web-yaoota/provisioning/roles/elasticsearch/templates/elasticsearch.yml.j2",
+				"/home/taweel/web-yaoota/common/project_utils/admin.py",
+				"/home/taweel/shahry/shahry/loans/tests/factories.py",
+				"/home/taweel/shahry/shahry/loans/tests/test_api.py",
+				"/home/taweel/shahry/shahry/users/tests/factories.py",
+				"/home/taweel/shahry/shahry/core/utils.py",
+				"/home/taweel/shahry/shahry/merchants/models.py",
+				"/home/taweel/shahry/shahry/merchants/tests/test_views.py",
+				"/home/taweel/shahry/shahry/core/models.py",
+				"/home/taweel/web-yaoota/yaoota/locale/ar_AE/LC_MESSAGES/django.po",
+				"/home/taweel/web-yaoota/yaoota/locale/ar_EG/LC_MESSAGES/django.po",
+				"/home/taweel/web-yaoota/yaoota/locale/ar_SA/LC_MESSAGES/django.po",
+				"/home/taweel/web-yaoota/common/templates/footer.html",
+				"/home/taweel/web-yaoota/yaoota/core/views.py",
+				"/home/taweel/web-yaoota/yaoota/config/urls.py",
+				"/home/taweel/web-yaoota/yaoota/pages/views.py",
+				"/home/taweel/web-yaoota/venv/lib/python2.7/site-packages/django/views/generic/base.py",
+				"/home/taweel/mobihall/mobihall-mobile/footer.php",
+				"/home/taweel/web-yaoota/yaoota/config/settings/common.py",
+				"/home/taweel/web-yaoota/yaoota/core/fields.py",
+				"/home/taweel/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/usr/lib/python2.7/ctypes/__init__.py",
+				"/home/taweel/web-yaoota/yaoota_sso/requirements/local.txt",
+				"/home/taweel/web-yaoota/yaoota_sso/requirements/bleed.txt",
+				"/home/taweel/web-yaoota/yaoota/specs/tests/test_apis.py",
+				"/home/taweel/web-yaoota/yaoota/specs/factories.py",
+				"/home/taweel/web-yaoota/yaoota/specs/serializers.py",
+				"/home/taweel/web-yaoota/yaoota/templates/pages/index.src.html",
+				"/home/taweel/web-yaoota/common/templates/header.html",
+				"/home/taweel/web-yaoota/venv/lib/python2.7/site-packages/django/contrib/admin/options.py",
+				"/home/taweel/web-yaoota/venv/lib/python2.7/site-packages/django/contrib/admin/__init__.py",
+				"/home/taweel/web-yaoota/yaoota/specs/tests/test_models.py",
+				"/home/taweel/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/taweel/.config/sublime-text-3/Packages/Anaconda/Default (Linux).sublime-keymap",
+				"/home/taweel/web-yaoota/venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py",
+				"/home/taweel/web-yaoota/venv/lib/python2.7/site-packages/django/forms/fields.py",
+				"/home/taweel/web-yaoota/yaoota/search/indexer/indexer.go",
+				"/home/taweel/.config/sublime-text-3/Packages/User/golang.sublime-settings",
+				"/home/taweel/shahry/shahry/locations/models.py",
+				"/home/taweel/shahry/venv/lib/python3.5/site-packages/django/contrib/gis/geoip2/resources.py",
+				"/home/taweel/shahry/venv/lib/python3.5/site-packages/django/db/models/fields/__init__.py",
+				"/home/taweel/.config/sublime-text-3/Packages/Djaneiro/Settings/HTML (Django).sublime-settings",
+				"/home/taweel/.config/sublime-text-3/Packages/User/Python (Django).sublime-settings",
+				"/home/taweel/shahry/docker-compose.yml",
+				"/home/taweel/shahry/dev.yml",
+				"/home/taweel/web-yaoota/provisioning/all.yml",
+				"/home/taweel/web-yaoota/yaoota/products/models.py",
+				"/home/taweel/web-yaoota/yaoota/products/factories.py",
+				"/home/taweel/web-yaoota/yaoota/core/admin_views.py",
+				"/home/taweel/web-yaoota/yaoota/crawledproducts/tests/test_models.py"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 170.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"self"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/taweel/web-yaoota"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/taweel/web-yaoota/yaoota/search/indexer/indexer.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 25953,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2480,
+										2480
+									]
+								],
+								"settings":
+								{
+									"SL.15.region_keys":
+									[
+									],
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/Go/Go.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 44.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.browse":
+			{
+				"height": 186.0
+			},
+			"output.exec":
+			{
+				"height": 186.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,3286,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"merch models",
+						"shahry/merchants/models.py"
+					],
+					[
+						"local.p",
+						"yaoota/config/settings/local.py"
+					],
+					[
+						"provisioning/roles/elasticsearch/templates/elasticsearch.yml.j2",
+						"provisioning/roles/elasticsearch/templates/elasticsearch.yml.j2"
+					],
+					[
+						" provisioning/roles/elasticsearch/templates/supervisor.conf.j2",
+						"provisioning/roles/elasticsearch/templates/supervisor.conf.j2"
+					],
+					[
+						"shary cor u",
+						"shahry/core/utils.py"
+					],
+					[
+						"footer",
+						"common/templates/footer.html"
+					],
+					[
+						"foo",
+						"footer.php"
+					],
+					[
+						"hea",
+						"header.php"
+					],
+					[
+						".",
+						".htaccess"
+					],
+					[
+						"yaoo com sett",
+						"yaoota/config/settings/common.py"
+					],
+					[
+						" yaoota core fields.py",
+						"yaoota/core/fields.py"
+					],
+					[
+						"yaoota spec mode",
+						"yaoota/specs/models.py"
+					],
+					[
+						"loan mode",
+						"shahry/loans/models.py"
+					],
+					[
+						"shah mercha mo",
+						"shahry/merchants/models.py"
+					],
+					[
+						"yaoo requ ba",
+						"yaoota_sso/requirements/base.txt"
+					],
+					[
+						"do",
+						"docker-compose.yml"
+					],
+					[
+						"le",
+						"left.php"
+					],
+					[
+						"ind",
+						"index.php"
+					],
+					[
+						"fo",
+						"inc-shamel/footer.php"
+					],
+					[
+						"inde",
+						"index.php"
+					],
+					[
+						"header.h",
+						"common/templates/header.html"
+					],
+					[
+						"yaoo spec mode",
+						"yaoota/specs/models.py"
+					],
+					[
+						"sha mer mo",
+						"shahry/merchants/models.py"
+					],
+					[
+						"prov all",
+						"provisioning/all.yml"
+					],
+					[
+						"yaoot prod mode",
+						"yaoota/products/models.py"
+					],
+					[
+						"produst mode",
+						"yaoota/crawledproducts/tests/test_models.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 808.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 275.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 39,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

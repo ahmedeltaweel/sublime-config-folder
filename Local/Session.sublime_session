@@ -1,0 +1,1000 @@
+{
+	"folder_history":
+	[
+		"/home/taweel/shahry",
+		"/home/taweel/web-yaoota",
+		"/home/taweel/mobihall/mobihall-mobile",
+		"/home/taweel/mobihall/mobihall",
+		"/"
+	],
+	"last_version": 3176,
+	"last_window_id": 39,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"cre",
+						"credentials"
+					],
+					[
+						"cr",
+						"create"
+					],
+					[
+						"test",
+						"tests"
+					],
+					[
+						"Op",
+						"OptionManager\tclass"
+					],
+					[
+						"TR",
+						"True\tinstance"
+					],
+					[
+						"V",
+						"ValidationError\tclass"
+					],
+					[
+						"ver",
+						"verifier_client\tstatement"
+					],
+					[
+						"LAN",
+						"LANGUAGE_CODE"
+					],
+					[
+						"s",
+						"status\tstatement"
+					],
+					[
+						"app",
+						"approve"
+					],
+					[
+						"st",
+						"string\tstatement"
+					],
+					[
+						"for",
+						"format\tfunction"
+					],
+					[
+						"p",
+						"prefix"
+					],
+					[
+						"op",
+						"OptionInline\tclass"
+					],
+					[
+						"su",
+						"suffix"
+					],
+					[
+						"max",
+						"max_length"
+					],
+					[
+						"model",
+						"models\tmodule"
+					],
+					[
+						"Bra",
+						"Branch\tclass"
+					],
+					[
+						"br",
+						"branch\tstatement"
+					],
+					[
+						"assertI",
+						"assertIsInstance\tfunction"
+					],
+					[
+						"Bran",
+						"BranchFactory\tclass"
+					],
+					[
+						"fac",
+						"factory"
+					],
+					[
+						"VAL",
+						"validators"
+					],
+					[
+						"emai",
+						"EmailValidator\tclass"
+					],
+					[
+						"SE",
+						"SET_NULL\tfunction"
+					],
+					[
+						"lo",
+						"locations\tmodule"
+					],
+					[
+						"Co",
+						"Country"
+					],
+					[
+						"ci",
+						"City\tmodule"
+					],
+					[
+						"For",
+						"ForeignKey\tclass"
+					],
+					[
+						"in",
+						"instance\tparam"
+					],
+					[
+						"fil",
+						"filename"
+					],
+					[
+						"FIle",
+						"FileField\tclass"
+					],
+					[
+						"co",
+						"core\tmodule"
+					],
+					[
+						"ma",
+						"max_length"
+					],
+					[
+						"ch",
+						"CharField"
+					],
+					[
+						"mode",
+						"models\tmodule"
+					],
+					[
+						"C",
+						"CharField"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"goto de",
+						"Anaconda: Goto object definition"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 181.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/taweel/shahry/shahry/merchants/tests/factories.py",
+				"/home/taweel/shahry/shahry/users/models.py",
+				"/home/taweel/web-yaoota/yaoota/specs/managers.py",
+				"/home/taweel/web-yaoota/yaoota/specs/models.py",
+				"/home/taweel/web-yaoota/yaoota/specs/admin.py",
+				"/home/taweel/web-yaoota/yaoota/.env",
+				"/home/taweel/web-yaoota/yaoota/config/settings/local.py",
+				"/home/taweel/web-yaoota/provisioning/roles/elasticsearch/templates/supervisor.conf.j2",
+				"/home/taweel/web-yaoota/provisioning/roles/elasticsearch/templates/elasticsearch.yml.j2",
+				"/home/taweel/web-yaoota/common/project_utils/admin.py",
+				"/home/taweel/shahry/shahry/loans/tests/factories.py",
+				"/home/taweel/shahry/shahry/loans/tests/test_api.py",
+				"/home/taweel/shahry/shahry/users/tests/factories.py",
+				"/home/taweel/shahry/shahry/core/utils.py",
+				"/home/taweel/shahry/shahry/merchants/models.py",
+				"/home/taweel/shahry/shahry/merchants/tests/test_views.py",
+				"/home/taweel/shahry/shahry/core/models.py",
+				"/home/taweel/web-yaoota/yaoota/locale/ar_AE/LC_MESSAGES/django.po",
+				"/home/taweel/web-yaoota/yaoota/locale/ar_EG/LC_MESSAGES/django.po",
+				"/home/taweel/web-yaoota/yaoota/locale/ar_SA/LC_MESSAGES/django.po",
+				"/home/taweel/web-yaoota/common/templates/footer.html",
+				"/home/taweel/web-yaoota/yaoota/core/views.py",
+				"/home/taweel/web-yaoota/yaoota/config/urls.py",
+				"/home/taweel/web-yaoota/yaoota/pages/views.py",
+				"/home/taweel/web-yaoota/venv/lib/python2.7/site-packages/django/views/generic/base.py",
+				"/home/taweel/mobihall/mobihall-mobile/footer.php",
+				"/home/taweel/web-yaoota/yaoota/config/settings/common.py",
+				"/home/taweel/web-yaoota/yaoota/core/fields.py",
+				"/home/taweel/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/usr/lib/python2.7/ctypes/__init__.py",
+				"/home/taweel/web-yaoota/yaoota_sso/requirements/local.txt",
+				"/home/taweel/web-yaoota/yaoota_sso/requirements/bleed.txt",
+				"/home/taweel/web-yaoota/yaoota/specs/tests/test_apis.py",
+				"/home/taweel/web-yaoota/yaoota/specs/factories.py",
+				"/home/taweel/web-yaoota/yaoota/specs/serializers.py",
+				"/home/taweel/web-yaoota/yaoota/templates/pages/index.src.html",
+				"/home/taweel/web-yaoota/common/templates/header.html",
+				"/home/taweel/web-yaoota/venv/lib/python2.7/site-packages/django/contrib/admin/options.py",
+				"/home/taweel/web-yaoota/venv/lib/python2.7/site-packages/django/contrib/admin/__init__.py",
+				"/home/taweel/web-yaoota/yaoota/specs/tests/test_models.py",
+				"/home/taweel/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/taweel/.config/sublime-text-3/Packages/Anaconda/Default (Linux).sublime-keymap",
+				"/home/taweel/web-yaoota/venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py",
+				"/home/taweel/web-yaoota/venv/lib/python2.7/site-packages/django/forms/fields.py",
+				"/home/taweel/web-yaoota/yaoota/search/indexer/indexer.go",
+				"/home/taweel/.config/sublime-text-3/Packages/User/golang.sublime-settings",
+				"/home/taweel/shahry/shahry/locations/models.py",
+				"/home/taweel/shahry/venv/lib/python3.5/site-packages/django/contrib/gis/geoip2/resources.py",
+				"/home/taweel/shahry/venv/lib/python3.5/site-packages/django/db/models/fields/__init__.py",
+				"/home/taweel/.config/sublime-text-3/Packages/Djaneiro/Settings/HTML (Django).sublime-settings",
+				"/home/taweel/.config/sublime-text-3/Packages/User/Python (Django).sublime-settings",
+				"/home/taweel/shahry/docker-compose.yml",
+				"/home/taweel/shahry/dev.yml",
+				"/home/taweel/web-yaoota/provisioning/all.yml",
+				"/home/taweel/web-yaoota/yaoota/products/models.py",
+				"/home/taweel/web-yaoota/yaoota/products/factories.py",
+				"/home/taweel/web-yaoota/yaoota/core/admin_views.py",
+				"/home/taweel/web-yaoota/yaoota/crawledproducts/tests/test_models.py"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 170.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"self"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 44.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"merch models",
+						"shahry/merchants/models.py"
+					],
+					[
+						"local.p",
+						"yaoota/config/settings/local.py"
+					],
+					[
+						"provisioning/roles/elasticsearch/templates/elasticsearch.yml.j2",
+						"provisioning/roles/elasticsearch/templates/elasticsearch.yml.j2"
+					],
+					[
+						" provisioning/roles/elasticsearch/templates/supervisor.conf.j2",
+						"provisioning/roles/elasticsearch/templates/supervisor.conf.j2"
+					],
+					[
+						"shary cor u",
+						"shahry/core/utils.py"
+					],
+					[
+						"footer",
+						"common/templates/footer.html"
+					],
+					[
+						"foo",
+						"footer.php"
+					],
+					[
+						"hea",
+						"header.php"
+					],
+					[
+						".",
+						".htaccess"
+					],
+					[
+						"yaoo com sett",
+						"yaoota/config/settings/common.py"
+					],
+					[
+						" yaoota core fields.py",
+						"yaoota/core/fields.py"
+					],
+					[
+						"yaoota spec mode",
+						"yaoota/specs/models.py"
+					],
+					[
+						"loan mode",
+						"shahry/loans/models.py"
+					],
+					[
+						"shah mercha mo",
+						"shahry/merchants/models.py"
+					],
+					[
+						"yaoo requ ba",
+						"yaoota_sso/requirements/base.txt"
+					],
+					[
+						"do",
+						"docker-compose.yml"
+					],
+					[
+						"le",
+						"left.php"
+					],
+					[
+						"ind",
+						"index.php"
+					],
+					[
+						"fo",
+						"inc-shamel/footer.php"
+					],
+					[
+						"inde",
+						"index.php"
+					],
+					[
+						"header.h",
+						"common/templates/header.html"
+					],
+					[
+						"yaoo spec mode",
+						"yaoota/specs/models.py"
+					],
+					[
+						"sha mer mo",
+						"shahry/merchants/models.py"
+					],
+					[
+						"prov all",
+						"provisioning/all.yml"
+					],
+					[
+						"yaoot prod mode",
+						"yaoota/products/models.py"
+					],
+					[
+						"produst mode",
+						"yaoota/crawledproducts/tests/test_models.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 808.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 275.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"cre",
+						"credentials"
+					],
+					[
+						"cr",
+						"create"
+					],
+					[
+						"test",
+						"tests"
+					],
+					[
+						"Op",
+						"OptionManager\tclass"
+					],
+					[
+						"TR",
+						"True\tinstance"
+					],
+					[
+						"V",
+						"ValidationError\tclass"
+					],
+					[
+						"ver",
+						"verifier_client\tstatement"
+					],
+					[
+						"LAN",
+						"LANGUAGE_CODE"
+					],
+					[
+						"s",
+						"status\tstatement"
+					],
+					[
+						"app",
+						"approve"
+					],
+					[
+						"st",
+						"string\tstatement"
+					],
+					[
+						"for",
+						"format\tfunction"
+					],
+					[
+						"p",
+						"prefix"
+					],
+					[
+						"op",
+						"OptionInline\tclass"
+					],
+					[
+						"su",
+						"suffix"
+					],
+					[
+						"max",
+						"max_length"
+					],
+					[
+						"model",
+						"models\tmodule"
+					],
+					[
+						"Bra",
+						"Branch\tclass"
+					],
+					[
+						"br",
+						"branch\tstatement"
+					],
+					[
+						"assertI",
+						"assertIsInstance\tfunction"
+					],
+					[
+						"Bran",
+						"BranchFactory\tclass"
+					],
+					[
+						"fac",
+						"factory"
+					],
+					[
+						"VAL",
+						"validators"
+					],
+					[
+						"emai",
+						"EmailValidator\tclass"
+					],
+					[
+						"SE",
+						"SET_NULL\tfunction"
+					],
+					[
+						"lo",
+						"locations\tmodule"
+					],
+					[
+						"Co",
+						"Country"
+					],
+					[
+						"ci",
+						"City\tmodule"
+					],
+					[
+						"For",
+						"ForeignKey\tclass"
+					],
+					[
+						"in",
+						"instance\tparam"
+					],
+					[
+						"fil",
+						"filename"
+					],
+					[
+						"FIle",
+						"FileField\tclass"
+					],
+					[
+						"co",
+						"core\tmodule"
+					],
+					[
+						"ma",
+						"max_length"
+					],
+					[
+						"ch",
+						"CharField"
+					],
+					[
+						"mode",
+						"models\tmodule"
+					],
+					[
+						"C",
+						"CharField"
+					]
+				]
+			},
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"goto de",
+						"Anaconda: Goto object definition"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 181.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/taweel/shahry/shahry/merchants/tests/factories.py",
+				"/home/taweel/shahry/shahry/users/models.py",
+				"/home/taweel/web-yaoota/yaoota/specs/managers.py",
+				"/home/taweel/web-yaoota/yaoota/specs/models.py",
+				"/home/taweel/web-yaoota/yaoota/specs/admin.py",
+				"/home/taweel/web-yaoota/yaoota/.env",
+				"/home/taweel/web-yaoota/yaoota/config/settings/local.py",
+				"/home/taweel/web-yaoota/provisioning/roles/elasticsearch/templates/supervisor.conf.j2",
+				"/home/taweel/web-yaoota/provisioning/roles/elasticsearch/templates/elasticsearch.yml.j2",
+				"/home/taweel/web-yaoota/common/project_utils/admin.py",
+				"/home/taweel/shahry/shahry/loans/tests/factories.py",
+				"/home/taweel/shahry/shahry/loans/tests/test_api.py",
+				"/home/taweel/shahry/shahry/users/tests/factories.py",
+				"/home/taweel/shahry/shahry/core/utils.py",
+				"/home/taweel/shahry/shahry/merchants/models.py",
+				"/home/taweel/shahry/shahry/merchants/tests/test_views.py",
+				"/home/taweel/shahry/shahry/core/models.py",
+				"/home/taweel/web-yaoota/yaoota/locale/ar_AE/LC_MESSAGES/django.po",
+				"/home/taweel/web-yaoota/yaoota/locale/ar_EG/LC_MESSAGES/django.po",
+				"/home/taweel/web-yaoota/yaoota/locale/ar_SA/LC_MESSAGES/django.po",
+				"/home/taweel/web-yaoota/common/templates/footer.html",
+				"/home/taweel/web-yaoota/yaoota/core/views.py",
+				"/home/taweel/web-yaoota/yaoota/config/urls.py",
+				"/home/taweel/web-yaoota/yaoota/pages/views.py",
+				"/home/taweel/web-yaoota/venv/lib/python2.7/site-packages/django/views/generic/base.py",
+				"/home/taweel/mobihall/mobihall-mobile/footer.php",
+				"/home/taweel/web-yaoota/yaoota/config/settings/common.py",
+				"/home/taweel/web-yaoota/yaoota/core/fields.py",
+				"/home/taweel/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/usr/lib/python2.7/ctypes/__init__.py",
+				"/home/taweel/web-yaoota/yaoota_sso/requirements/local.txt",
+				"/home/taweel/web-yaoota/yaoota_sso/requirements/bleed.txt",
+				"/home/taweel/web-yaoota/yaoota/specs/tests/test_apis.py",
+				"/home/taweel/web-yaoota/yaoota/specs/factories.py",
+				"/home/taweel/web-yaoota/yaoota/specs/serializers.py",
+				"/home/taweel/web-yaoota/yaoota/templates/pages/index.src.html",
+				"/home/taweel/web-yaoota/common/templates/header.html",
+				"/home/taweel/web-yaoota/venv/lib/python2.7/site-packages/django/contrib/admin/options.py",
+				"/home/taweel/web-yaoota/venv/lib/python2.7/site-packages/django/contrib/admin/__init__.py",
+				"/home/taweel/web-yaoota/yaoota/specs/tests/test_models.py",
+				"/home/taweel/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/taweel/.config/sublime-text-3/Packages/Anaconda/Default (Linux).sublime-keymap",
+				"/home/taweel/web-yaoota/venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py",
+				"/home/taweel/web-yaoota/venv/lib/python2.7/site-packages/django/forms/fields.py",
+				"/home/taweel/web-yaoota/yaoota/search/indexer/indexer.go",
+				"/home/taweel/.config/sublime-text-3/Packages/User/golang.sublime-settings",
+				"/home/taweel/shahry/shahry/locations/models.py",
+				"/home/taweel/shahry/venv/lib/python3.5/site-packages/django/contrib/gis/geoip2/resources.py",
+				"/home/taweel/shahry/venv/lib/python3.5/site-packages/django/db/models/fields/__init__.py",
+				"/home/taweel/.config/sublime-text-3/Packages/Djaneiro/Settings/HTML (Django).sublime-settings",
+				"/home/taweel/.config/sublime-text-3/Packages/User/Python (Django).sublime-settings",
+				"/home/taweel/shahry/docker-compose.yml",
+				"/home/taweel/shahry/dev.yml",
+				"/home/taweel/web-yaoota/provisioning/all.yml",
+				"/home/taweel/web-yaoota/yaoota/products/models.py",
+				"/home/taweel/web-yaoota/yaoota/products/factories.py",
+				"/home/taweel/web-yaoota/yaoota/core/admin_views.py",
+				"/home/taweel/web-yaoota/yaoota/crawledproducts/tests/test_models.py"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 170.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"self"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 44.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,3286,1080",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"merch models",
+						"shahry/merchants/models.py"
+					],
+					[
+						"local.p",
+						"yaoota/config/settings/local.py"
+					],
+					[
+						"provisioning/roles/elasticsearch/templates/elasticsearch.yml.j2",
+						"provisioning/roles/elasticsearch/templates/elasticsearch.yml.j2"
+					],
+					[
+						" provisioning/roles/elasticsearch/templates/supervisor.conf.j2",
+						"provisioning/roles/elasticsearch/templates/supervisor.conf.j2"
+					],
+					[
+						"shary cor u",
+						"shahry/core/utils.py"
+					],
+					[
+						"footer",
+						"common/templates/footer.html"
+					],
+					[
+						"foo",
+						"footer.php"
+					],
+					[
+						"hea",
+						"header.php"
+					],
+					[
+						".",
+						".htaccess"
+					],
+					[
+						"yaoo com sett",
+						"yaoota/config/settings/common.py"
+					],
+					[
+						" yaoota core fields.py",
+						"yaoota/core/fields.py"
+					],
+					[
+						"yaoota spec mode",
+						"yaoota/specs/models.py"
+					],
+					[
+						"loan mode",
+						"shahry/loans/models.py"
+					],
+					[
+						"shah mercha mo",
+						"shahry/merchants/models.py"
+					],
+					[
+						"yaoo requ ba",
+						"yaoota_sso/requirements/base.txt"
+					],
+					[
+						"do",
+						"docker-compose.yml"
+					],
+					[
+						"le",
+						"left.php"
+					],
+					[
+						"ind",
+						"index.php"
+					],
+					[
+						"fo",
+						"inc-shamel/footer.php"
+					],
+					[
+						"inde",
+						"index.php"
+					],
+					[
+						"header.h",
+						"common/templates/header.html"
+					],
+					[
+						"yaoo spec mode",
+						"yaoota/specs/models.py"
+					],
+					[
+						"sha mer mo",
+						"shahry/merchants/models.py"
+					],
+					[
+						"prov all",
+						"provisioning/all.yml"
+					],
+					[
+						"yaoot prod mode",
+						"yaoota/products/models.py"
+					],
+					[
+						"produst mode",
+						"yaoota/crawledproducts/tests/test_models.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 808.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 275.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 39
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

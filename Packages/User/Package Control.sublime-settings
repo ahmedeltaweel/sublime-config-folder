@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"Anaconda",
+		"anaconda_go",
+		"ApacheConf",
+		"Djaneiro",
+		"Django",
+		"GitGutter",
+		"MarkdownPreview",
+		"Materialize",
+		"Package Control",
+		"Python 3",
+		"requirementstxt",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-pep8",
+		"TrailingSpaces"
+	]
+}
